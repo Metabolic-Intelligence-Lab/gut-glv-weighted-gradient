@@ -1,0 +1,1275 @@
+{
+ "Sommer2017": {
+  "status": "OK",
+  "title": "The resilience of the intestinal microbiota influences health and disease",
+  "authors": [
+   "Sommer F",
+   "Anderson JM",
+   "Bharti R",
+   "Raes J",
+   "Rosenstiel P"
+  ],
+  "container": "Nature Reviews Microbiology",
+  "volume": "15",
+  "page": "630-638",
+  "year": "2017",
+  "doi": "10.1038/nrmicro.2017.58",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "F.~Sommer \\emph{et al.}, Nat.\\ Rev.\\ Microbiol.\\ \\textbf{15}, 630 (2017).",
+  "parsed": {
+   "first_author": "Sommer",
+   "journal": "Nature Reviews Microbiology",
+   "volume": "15",
+   "page": "630",
+   "year": "2017"
+  }
+ },
+ "Scheffer2001": {
+  "status": "OK",
+  "title": "Catastrophic shifts in ecosystems",
+  "authors": [
+   "Scheffer M",
+   "Carpenter S",
+   "Foley JA",
+   "Folke C",
+   "Walker B"
+  ],
+  "container": "Nature",
+  "volume": "413",
+  "page": "591-596",
+  "year": "2001",
+  "doi": "10.1038/35098000",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "M.~Scheffer \\emph{et al.}, Nature \\textbf{413}, 591 (2001).",
+  "parsed": {
+   "first_author": "Scheffer",
+   "journal": "Nature",
+   "volume": "413",
+   "page": "591",
+   "year": "2001"
+  }
+ },
+ "Scheffer2009": {
+  "status": "OK",
+  "title": "Early-warning signals for critical transitions",
+  "authors": [
+   "Scheffer M",
+   "Bascompte J",
+   "Brock WA",
+   "Brovkin V",
+   "Carpenter SR",
+   "Dakos V",
+   "Held H",
+   "van Nes EH",
+   "Rietkerk M",
+   "Sugihara G"
+  ],
+  "container": "Nature",
+  "volume": "461",
+  "page": "53-59",
+  "year": "2009",
+  "doi": "10.1038/nature08227",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "M.~Scheffer \\emph{et al.}, Nature \\textbf{461}, 53 (2009).",
+  "parsed": {
+   "first_author": "Scheffer",
+   "journal": "Nature",
+   "volume": "461",
+   "page": "53",
+   "year": "2009"
+  }
+ },
+ "Tap2022": {
+  "status": "OK",
+  "title": "The Human Gut Microbiota in all its States: From Disturbance to Resilience",
+  "authors": [
+   "Tap J",
+   "Ruppé E",
+   "Derrien M"
+  ],
+  "container": "Comprehensive Gut Microbiota",
+  "volume": null,
+  "page": "161-178",
+  "year": "2022",
+  "doi": "10.1016/b978-0-12-819265-8.00039-5",
+  "matched_on": "manual DOI",
+  "bibitem": "J.~Tap, E.~Ruppé, M.~Derrien, in \\emph{Comprehensive Gut Microbiota} (Elsevier, 2022), ch.~2.14.",
+  "parsed": {
+   "first_author": "Tap",
+   "journal": null,
+   "volume": null,
+   "page": null,
+   "year": null
+  }
+ },
+ "Lahti2014": {
+  "status": "OK",
+  "title": "Tipping elements in the human intestinal ecosystem",
+  "authors": [
+   "Lahti L",
+   "Salojärvi J",
+   "Salonen A",
+   "Scheffer M",
+   "de Vos WM"
+  ],
+  "container": "Nature Communications",
+  "volume": "5",
+  "page": "4344",
+  "year": "2014",
+  "doi": "10.1038/ncomms5344",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "L.~Lahti \\emph{et al.}, Nat.\\ Commun.\\ \\textbf{5}, 4344 (2014).",
+  "parsed": {
+   "first_author": "Lahti",
+   "journal": "Nature Communications",
+   "volume": "5",
+   "page": "4344",
+   "year": "2014"
+  }
+ },
+ "Gonze2017": {
+  "status": "OK",
+  "title": "Multi-stability and the origin of microbial community types",
+  "authors": [
+   "Gonze D",
+   "Lahti L",
+   "Raes J",
+   "Faust K"
+  ],
+  "container": "The ISME Journal",
+  "volume": "11",
+  "page": "2159-2166",
+  "year": "2017",
+  "doi": "10.1038/ismej.2017.60",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "D.~Gonze \\emph{et al.}, ISME J.\\ \\textbf{11}, 2159 (2017).",
+  "parsed": {
+   "first_author": "Gonze",
+   "journal": "The ISME Journal",
+   "volume": "11",
+   "page": "2159",
+   "year": "2017"
+  }
+ },
+ "Dethlefsen2011": {
+  "status": "OK",
+  "title": "Incomplete recovery and individualized responses of the human distal gut microbiota to repeated antibiotic perturbation",
+  "authors": [
+   "Dethlefsen L",
+   "Relman DA"
+  ],
+  "container": "Proceedings of the National Academy of Sciences",
+  "volume": "108",
+  "page": "4554-4561",
+  "year": "2011",
+  "doi": "10.1073/pnas.1000087107",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "L.~Dethlefsen, D.~A.~Relman, Proc.\\ Natl.\\ Acad.\\ Sci.\\ USA \\textbf{108}, 4554 (2011).",
+  "parsed": {
+   "first_author": "Dethlefsen",
+   "journal": "Proceedings of the National Academy of Sciences",
+   "volume": "108",
+   "page": "4554",
+   "year": "2011"
+  }
+ },
+ "Suez2018": {
+  "status": "OK",
+  "title": "Post-Antibiotic Gut Mucosal Microbiome Reconstitution Is Impaired by Probiotics and Improved by Autologous FMT",
+  "authors": [
+   "Suez J",
+   "Zmora N",
+   "Zilberman-Schapira G",
+   "Mor U",
+   "Dori-Bachash M",
+   "Bashiardes S",
+   "Zur M",
+   "Regev-Lehavi D",
+   "Ben-Zeev Brik R",
+   "Federici S",
+   "Horn M",
+   "Cohen Y",
+   "Moor AE",
+   "Zeevi D",
+   "Korem T",
+   "Kotler E",
+   "Harmelin A",
+   "Itzkovitz S",
+   "Maharshak N",
+   "Shibolet O",
+   "Pevsner-Fischer M",
+   "Shapiro H",
+   "Sharon I",
+   "Halpern Z",
+   "Segal E",
+   "Elinav E"
+  ],
+  "container": "Cell",
+  "volume": "174",
+  "page": "1406-1423.e16",
+  "year": "2018",
+  "doi": "10.1016/j.cell.2018.08.047",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "J.~Suez, N.~Zmora, G.~Zilberman-Schapira \\emph{et al.} (E.~Elinav), Cell \\textbf{174}, 1406 (2018).",
+  "parsed": {
+   "first_author": "Suez",
+   "journal": "Cell",
+   "volume": "174",
+   "page": "1406",
+   "year": "2018"
+  }
+ },
+ "Banerjee2018": {
+  "status": "OK",
+  "title": "Keystone taxa as drivers of microbiome structure and functioning",
+  "authors": [
+   "Banerjee S",
+   "Schlaeppi K",
+   "van der Heijden MGA"
+  ],
+  "container": "Nature Reviews Microbiology",
+  "volume": "16",
+  "page": "567-576",
+  "year": "2018",
+  "doi": "10.1038/s41579-018-0024-1",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "S.~Banerjee, K.~Schlaeppi, M.~G.~A.~van der Heijden, Nat.\\ Rev.\\ Microbiol.\\ \\textbf{16}, 567 (2018).",
+  "parsed": {
+   "first_author": "Banerjee",
+   "journal": "Nature Reviews Microbiology",
+   "volume": "16",
+   "page": "567",
+   "year": "2018"
+  }
+ },
+ "Albert2000": {
+  "status": "OK",
+  "title": "Error and attack tolerance of complex networks",
+  "authors": [
+   "Albert R",
+   "Jeong H",
+   "Barabási AL"
+  ],
+  "container": "Nature",
+  "volume": "406",
+  "page": "378-382",
+  "year": "2000",
+  "doi": "10.1038/35019019",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "R.~Albert, H.~Jeong, A.-L.~Barab\\'asi, Nature \\textbf{406}, 378 (2000).",
+  "parsed": {
+   "first_author": "Albert",
+   "journal": "Nature",
+   "volume": "406",
+   "page": "378",
+   "year": "2000"
+  }
+ },
+ "Chung2003": {
+  "status": "OK",
+  "title": "Spectra of random graphs with given expected degrees",
+  "authors": [
+   "Chung F",
+   "Lu L",
+   "Vu V"
+  ],
+  "container": "Proceedings of the National Academy of Sciences",
+  "volume": "100",
+  "page": "6313-6318",
+  "year": "2003",
+  "doi": "10.1073/pnas.0937490100",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "F.~Chung, L.~Lu, V.~Vu, Proc.\\ Natl.\\ Acad.\\ Sci.\\ USA \\textbf{100}, 6313 (2003).",
+  "parsed": {
+   "first_author": "Chung",
+   "journal": "Proceedings of the National Academy of Sciences",
+   "volume": "100",
+   "page": "6313",
+   "year": "2003"
+  }
+ },
+ "May1972": {
+  "status": "OK",
+  "title": "Will a Large Complex System be Stable?",
+  "authors": [
+   "MAY RM"
+  ],
+  "container": "Nature",
+  "volume": "238",
+  "page": "413-414",
+  "year": "1972",
+  "doi": "10.1038/238413a0",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "R.~M.~May, Nature \\textbf{238}, 413 (1972).",
+  "parsed": {
+   "first_author": "May",
+   "journal": "Nature",
+   "volume": "238",
+   "page": "413",
+   "year": "1972"
+  }
+ },
+ "Allesina2012": {
+  "status": "OK",
+  "title": "Stability criteria for complex ecosystems",
+  "authors": [
+   "Allesina S",
+   "Tang S"
+  ],
+  "container": "Nature",
+  "volume": "483",
+  "page": "205-208",
+  "year": "2012",
+  "doi": "10.1038/nature10832",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "S.~Allesina, S.~Tang, Nature \\textbf{483}, 205 (2012).",
+  "parsed": {
+   "first_author": "Allesina",
+   "journal": "Nature",
+   "volume": "483",
+   "page": "205",
+   "year": "2012"
+  }
+ },
+ "Bunin2017": {
+  "status": "OK",
+  "title": "Ecological communities with Lotka-Volterra dynamics",
+  "authors": [
+   "Bunin G"
+  ],
+  "container": "Physical Review E",
+  "volume": "95",
+  "page": "042414",
+  "year": "2017",
+  "doi": "10.1103/physreve.95.042414",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "G.~Bunin, Phys.\\ Rev.\\ E \\textbf{95}, 042414 (2017).",
+  "parsed": {
+   "first_author": "Bunin",
+   "journal": "Physical Review E",
+   "volume": "95",
+   "page": "042414",
+   "year": "2017"
+  }
+ },
+ "Barbier2018": {
+  "status": "OK",
+  "title": "Generic assembly patterns in complex ecological communities",
+  "authors": [
+   "Barbier M",
+   "Arnoldi JF",
+   "Bunin G",
+   "Loreau M"
+  ],
+  "container": "Proceedings of the National Academy of Sciences",
+  "volume": "115",
+  "page": "2156-2161",
+  "year": "2018",
+  "doi": "10.1073/pnas.1710352115",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "M.~Barbier, J.-F.~Arnoldi, G.~Bunin, M.~Loreau, Proc.\\ Natl.\\ Acad.\\ Sci.\\ USA \\textbf{115}, 2156 (2018).",
+  "parsed": {
+   "first_author": "Barbier",
+   "journal": "Proceedings of the National Academy of Sciences",
+   "volume": "115",
+   "page": "2156",
+   "year": "2018"
+  }
+ },
+ "Galla2018": {
+  "status": "OK",
+  "title": "Dynamically evolved community size and stability of random Lotka-Volterra ecosystems(a)",
+  "authors": [
+   "Galla T"
+  ],
+  "container": "EPL (Europhysics Letters)",
+  "volume": "123",
+  "page": "48004",
+  "year": "2018",
+  "doi": "10.1209/0295-5075/123/48004",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "T.~Galla, Europhys.\\ Lett.\\ \\textbf{123}, 48004 (2018).",
+  "parsed": {
+   "first_author": "Galla",
+   "journal": "Europhysics Letters",
+   "volume": "123",
+   "page": "48004",
+   "year": "2018"
+  }
+ },
+ "Altieri2021": {
+  "status": "OK",
+  "title": "Properties of Equilibria and Glassy Phases of the Random Lotka-Volterra Model with Demographic Noise",
+  "authors": [
+   "Altieri A",
+   "Roy F",
+   "Cammarota C",
+   "Biroli G"
+  ],
+  "container": "Physical Review Letters",
+  "volume": "126",
+  "page": "258301",
+  "year": "2021",
+  "doi": "10.1103/physrevlett.126.258301",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "A.~Altieri, F.~Roy, C.~Cammarota, G.~Biroli, Phys.\\ Rev.\\ Lett.\\ \\textbf{126}, 258301 (2021).",
+  "parsed": {
+   "first_author": "Altieri",
+   "journal": "Physical Review Letters",
+   "volume": "126",
+   "page": "258301",
+   "year": "2021"
+  }
+ },
+ "Tikhonov2017": {
+  "status": "OK",
+  "title": "Collective Phase in Resource Competition in a Highly Diverse Ecosystem",
+  "authors": [
+   "Tikhonov M",
+   "Monasson R"
+  ],
+  "container": "Physical Review Letters",
+  "volume": "118",
+  "page": "048103",
+  "year": "2017",
+  "doi": "10.1103/physrevlett.118.048103",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "M.~Tikhonov, R.~Monasson, Phys.\\ Rev.\\ Lett.\\ \\textbf{118}, 048103 (2017).",
+  "parsed": {
+   "first_author": "Tikhonov",
+   "journal": "Physical Review Letters",
+   "volume": "118",
+   "page": "048103",
+   "year": "2017"
+  }
+ },
+ "Marcus2022": {
+  "status": "OK",
+  "title": "Local and collective transitions in sparsely-interacting ecological communities",
+  "authors": [
+   "Marcus S",
+   "Turner AM",
+   "Bunin G"
+  ],
+  "container": "PLOS Computational Biology",
+  "volume": "18",
+  "page": "e1010274",
+  "year": "2022",
+  "doi": "10.1371/journal.pcbi.1010274",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "S.~Marcus, A.~M.~Turner, G.~Bunin, PLoS Comput.\\ Biol.\\ \\textbf{18}, e1010274 (2022).",
+  "parsed": {
+   "first_author": "Marcus",
+   "journal": "PLOS Computational Biology",
+   "volume": "18",
+   "page": "e1010274",
+   "year": "2022"
+  }
+ },
+ "Stein2013": {
+  "status": "OK",
+  "title": "Ecological Modeling from Time-Series Inference: Insight into Dynamics and Stability of Intestinal Microbiota",
+  "authors": [
+   "Stein RR",
+   "Bucci V",
+   "Toussaint NC",
+   "Buffie CG",
+   "Rätsch G",
+   "Pamer EG",
+   "Sander C",
+   "Xavier JB"
+  ],
+  "container": "PLoS Computational Biology",
+  "volume": "9",
+  "page": "e1003388",
+  "year": "2013",
+  "doi": "10.1371/journal.pcbi.1003388",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "R.~R.~Stein \\emph{et al.}, PLoS Comput.\\ Biol.\\ \\textbf{9}, e1003388 (2013).",
+  "parsed": {
+   "first_author": "Stein",
+   "journal": "PLOS Computational Biology",
+   "volume": "9",
+   "page": "e1003388",
+   "year": "2013"
+  }
+ },
+ "Coyte2015": {
+  "status": "OK",
+  "title": "The ecology of the microbiome: Networks, competition, and stability",
+  "authors": [
+   "Coyte KZ",
+   "Schluter J",
+   "Foster KR"
+  ],
+  "container": "Science",
+  "volume": "350",
+  "page": "663-666",
+  "year": "2015",
+  "doi": "10.1126/science.aad2602",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "K.~Z.~Coyte, J.~Schluter, K.~R.~Foster, Science \\textbf{350}, 663 (2015).",
+  "parsed": {
+   "first_author": "Coyte",
+   "journal": "Science",
+   "volume": "350",
+   "page": "663",
+   "year": "2015"
+  }
+ },
+ "Bucci2016": {
+  "status": "OK",
+  "title": "MDSINE: Microbial Dynamical Systems INference Engine for microbiome time-series analyses",
+  "authors": [
+   "Bucci V",
+   "Tzen B",
+   "Li N",
+   "Simmons M",
+   "Tanoue T",
+   "Bogart E",
+   "Deng L",
+   "Yeliseyev V",
+   "Delaney ML",
+   "Liu Q",
+   "Olle B",
+   "Stein RR",
+   "Honda K",
+   "Bry L",
+   "Gerber GK"
+  ],
+  "container": "Genome Biology",
+  "volume": "17",
+  "page": "121",
+  "year": "2016",
+  "doi": "10.1186/s13059-016-0980-6",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "V.~Bucci \\emph{et al.}, Genome Biol.\\ \\textbf{17}, 121 (2016).",
+  "parsed": {
+   "first_author": "Bucci",
+   "journal": "Genome Biology",
+   "volume": "17",
+   "page": "121",
+   "year": "2016"
+  }
+ },
+ "Gibson2025": {
+  "status": "OK",
+  "title": "Learning ecosystem-scale dynamics from microbiome data with MDSINE2",
+  "authors": [
+   "Gibson TE",
+   "Kim Y",
+   "Acharya S",
+   "Kaplan DE",
+   "DiBenedetto N",
+   "Lavin R",
+   "Berger B",
+   "Allegretti JR",
+   "Bry L",
+   "Gerber GK"
+  ],
+  "container": "Nature Microbiology",
+  "volume": "10",
+  "page": "2550-2564",
+  "year": "2025",
+  "doi": "10.1038/s41564-025-02112-6",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "T.~E.~Gibson \\emph{et al.}, Nat.\\ Microbiol.\\ \\textbf{10}, 2550 (2025).",
+  "parsed": {
+   "first_author": "Gibson",
+   "journal": "Nature Microbiology",
+   "volume": "10",
+   "page": "2550",
+   "year": "2025"
+  }
+ },
+ "Gloor2017": {
+  "status": "OK",
+  "title": "Microbiome Datasets Are Compositional: And This Is Not Optional",
+  "authors": [
+   "Gloor GB",
+   "Macklaim JM",
+   "Pawlowsky-Glahn V",
+   "Egozcue JJ"
+  ],
+  "container": "Frontiers in Microbiology",
+  "volume": "8",
+  "page": "2224",
+  "year": "2017",
+  "doi": "10.3389/fmicb.2017.02224",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "G.~B.~Gloor, J.~M.~Macklaim, V.~Pawlowsky-Glahn, J.~J.~Egozcue, Front.\\ Microbiol.\\ \\textbf{8}, 2224 (2017).",
+  "parsed": {
+   "first_author": "Gloor",
+   "journal": "Frontiers in Microbiology",
+   "volume": "8",
+   "page": "2224",
+   "year": "2017"
+  }
+ },
+ "David2014": {
+  "status": "OK",
+  "title": "Host lifestyle affects human microbiota on daily timescales",
+  "authors": [
+   "David LA",
+   "Materna AC",
+   "Friedman J",
+   "Campos-Baptista MI",
+   "Blackburn MC",
+   "Perrotta A",
+   "Erdman SE",
+   "Alm EJ"
+  ],
+  "container": "Genome Biology",
+  "volume": "15",
+  "page": "R89",
+  "year": "2014",
+  "doi": "10.1186/gb-2014-15-7-r89",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "L.~A.~David \\emph{et al.}, Genome Biol.\\ \\textbf{15}, R89 (2014).",
+  "parsed": {
+   "first_author": "David",
+   "journal": "Genome Biology",
+   "volume": "15",
+   "page": "R89",
+   "year": "2014"
+  }
+ },
+ "DiGiulio2015": {
+  "status": "OK",
+  "title": "Temporal and spatial variation of the human microbiota during pregnancy",
+  "authors": [
+   "DiGiulio DB",
+   "Callahan BJ",
+   "McMurdie PJ",
+   "Costello EK",
+   "Lyell DJ",
+   "Robaczewska A",
+   "Sun CL",
+   "Goltsman DSA",
+   "Wong RJ",
+   "Shaw G",
+   "Stevenson DK",
+   "Holmes SP",
+   "Relman DA"
+  ],
+  "container": "Proceedings of the National Academy of Sciences",
+  "volume": "112",
+  "page": "11060-11065",
+  "year": "2015",
+  "doi": "10.1073/pnas.1502875112",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "D.~B.~DiGiulio \\emph{et al.}, Proc.\\ Natl.\\ Acad.\\ Sci.\\ USA \\textbf{112}, 11060 (2015).",
+  "parsed": {
+   "first_author": "DiGiulio",
+   "journal": "Proceedings of the National Academy of Sciences",
+   "volume": "112",
+   "page": "11060",
+   "year": "2015"
+  }
+ },
+ "Bokulich2016": {
+  "status": "OK",
+  "title": "Antibiotics, birth mode, and diet shape microbiome maturation during early life",
+  "authors": [
+   "Bokulich NA",
+   "Chung J",
+   "Battaglia T",
+   "Henderson N",
+   "Jay M",
+   "Li H",
+   "D. Lieber A",
+   "Wu F",
+   "Perez-Perez GI",
+   "Chen Y",
+   "Schweizer W",
+   "Zheng X",
+   "Contreras M",
+   "Dominguez-Bello MG",
+   "Blaser MJ"
+  ],
+  "container": "Science Translational Medicine",
+  "volume": "8",
+  "page": null,
+  "year": "2016",
+  "doi": "10.1126/scitranslmed.aad7121",
+  "matched_on": "manual DOI",
+  "bibitem": "N.~A.~Bokulich \\emph{et al.}, Sci.\\ Transl.\\ Med.\\ \\textbf{8}, 343ra82 (2016).",
+  "parsed": {
+   "first_author": "Bokulich",
+   "journal": "Science Translational Medicine",
+   "volume": "8",
+   "page": "343ra82",
+   "year": "2016"
+  }
+ },
+ "Vatanen2016": {
+  "status": "OK",
+  "title": "Variation in Microbiome LPS Immunogenicity Contributes to Autoimmunity in Humans",
+  "authors": [
+   "Vatanen T",
+   "Kostic AD",
+   "d’Hennezel E",
+   "Siljander H",
+   "Franzosa EA",
+   "Yassour M",
+   "Kolde R",
+   "Vlamakis H",
+   "Arthur TD",
+   "Hämäläinen AM",
+   "Peet A",
+   "Tillmann V",
+   "Uibo R",
+   "Mokurov S",
+   "Dorshakova N",
+   "Ilonen J",
+   "Virtanen SM",
+   "Szabo SJ",
+   "Porter JA",
+   "Lähdesmäki H",
+   "Huttenhower C",
+   "Gevers D",
+   "Cullen TW",
+   "Knip M",
+   "Xavier RJ"
+  ],
+  "container": "Cell",
+  "volume": "165",
+  "page": "842-853",
+  "year": "2016",
+  "doi": "10.1016/j.cell.2016.04.007",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "T.~Vatanen \\emph{et al.}, Cell \\textbf{165}, 842 (2016).",
+  "parsed": {
+   "first_author": "Vatanen",
+   "journal": "Cell",
+   "volume": "165",
+   "page": "842",
+   "year": "2016"
+  }
+ },
+ "RakoffNahoum2016": {
+  "status": "OK",
+  "title": "The evolution of cooperation within the gut microbiota",
+  "authors": [
+   "Rakoff-Nahoum S",
+   "Foster KR",
+   "Comstock LE"
+  ],
+  "container": "Nature",
+  "volume": "533",
+  "page": "255-259",
+  "year": "2016",
+  "doi": "10.1038/nature17626",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "S.~Rakoff-Nahoum, K.~R.~Foster, L.~E.~Comstock, Nature \\textbf{533}, 255 (2016).",
+  "parsed": {
+   "first_author": "Rakoff-Nahoum",
+   "journal": "Nature",
+   "volume": "533",
+   "page": "255",
+   "year": "2016"
+  }
+ },
+ "Flint2012": {
+  "status": "OK",
+  "title": "Microbial degradation of complex carbohydrates in the gut",
+  "authors": [
+   "Flint HJ",
+   "Scott KP",
+   "Duncan SH",
+   "Louis P",
+   "Forano E"
+  ],
+  "container": "Gut Microbes",
+  "volume": "3",
+  "page": "289-306",
+  "year": "2012",
+  "doi": "10.4161/gmic.19897",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "H.~J.~Flint, K.~P.~Scott, S.~H.~Duncan, P.~Louis, E.~Forano, Gut Microbes \\textbf{3}, 289 (2012).",
+  "parsed": {
+   "first_author": "Flint",
+   "journal": "Gut Microbes",
+   "volume": "3",
+   "page": "289",
+   "year": "2012"
+  }
+ },
+ "Vandeputte2017": {
+  "status": "OK",
+  "title": "Quantitative microbiome profiling links gut community variation to microbial load",
+  "authors": [
+   "Vandeputte D",
+   "Kathagen G",
+   "D’hoe K",
+   "Vieira-Silva S",
+   "Valles-Colomer M",
+   "Sabino J",
+   "Wang J",
+   "Tito RY",
+   "De Commer L",
+   "Darzi Y",
+   "Vermeire S",
+   "Falony G",
+   "Raes J"
+  ],
+  "container": "Nature",
+  "volume": "551",
+  "page": "507-511",
+  "year": "2017",
+  "doi": "10.1038/nature24460",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "D.~Vandeputte \\emph{et al.}, Nature \\textbf{551}, 507 (2017).",
+  "parsed": {
+   "first_author": "Vandeputte",
+   "journal": "Nature",
+   "volume": "551",
+   "page": "507",
+   "year": "2017"
+  }
+ },
+ "Vandeputte2021": {
+  "status": "OK",
+  "title": "Temporal variability in quantitative human gut microbiome profiles and implications for clinical research",
+  "authors": [
+   "Vandeputte D",
+   "De Commer L",
+   "Tito RY",
+   "Kathagen G",
+   "Sabino J",
+   "Vermeire S",
+   "Faust K",
+   "Raes J"
+  ],
+  "container": "Nature Communications",
+  "volume": "12",
+  "page": "6740",
+  "year": "2021",
+  "doi": "10.1038/s41467-021-27098-7",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "D.~Vandeputte \\emph{et al.}, Nat.\\ Commun.\\ \\textbf{12}, 6740 (2021).",
+  "parsed": {
+   "first_author": "Vandeputte",
+   "journal": "Nature Communications",
+   "volume": "12",
+   "page": "6740",
+   "year": "2021"
+  }
+ },
+ "Armonia2023": {
+  "status": "OK",
+  "title": "Unraveling the Gut Microbiome–Diet Connection: Exploring the Impact of Digital Precision and Personalized Nutrition on Microbiota Composition and Host Physiology",
+  "authors": [
+   "Bianchetti G",
+   "De Maio F",
+   "Abeltino A",
+   "Serantoni C",
+   "Riente A",
+   "Santarelli G",
+   "Sanguinetti M",
+   "Delogu G",
+   "Martinoli R",
+   "Barbaresi S",
+   "Spirito MD",
+   "Maulucci G"
+  ],
+  "container": "Nutrients",
+  "volume": "15",
+  "page": "3931",
+  "year": "2023",
+  "doi": "10.3390/nu15183931",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "G.~Bianchetti, F.~De Maio, A.~Abeltino \\emph{et al.} (G.~Maulucci), Nutrients \\textbf{15}, 3931 (2023).",
+  "parsed": {
+   "first_author": "Bianchetti",
+   "journal": "Nutrients",
+   "volume": "15",
+   "page": "3931",
+   "year": "2023"
+  }
+ },
+ "Venturelli2018": {
+  "status": "OK",
+  "title": "Deciphering microbial interactions in synthetic human gut microbiome communities",
+  "authors": [
+   "Venturelli OS",
+   "Carr AV",
+   "Fisher G",
+   "Hsu RH",
+   "Lau R",
+   "Bowen BP",
+   "Hromada S",
+   "Northen T",
+   "Arkin AP"
+  ],
+  "container": "Molecular Systems Biology",
+  "volume": "14",
+  "page": "MSB178157",
+  "year": "2018",
+  "doi": "10.15252/msb.20178157",
+  "matched_on": "manual DOI",
+  "bibitem": "O.~S.~Venturelli \\emph{et al.}, Mol.\\ Syst.\\ Biol.\\ \\textbf{14}, e8157 (2018).",
+  "parsed": {
+   "first_author": "Venturelli",
+   "journal": "Molecular Systems Biology",
+   "volume": "14",
+   "page": "e8157",
+   "year": "2018"
+  }
+ },
+ "Clark2021": {
+  "status": "OK",
+  "title": "Design of synthetic human gut microbiome assembly and butyrate production",
+  "authors": [
+   "Clark RL",
+   "Connors BM",
+   "Stevenson DM",
+   "Hromada SE",
+   "Hamilton JJ",
+   "Amador-Noguez D",
+   "Venturelli OS"
+  ],
+  "container": "Nature Communications",
+  "volume": "12",
+  "page": "3254",
+  "year": "2021",
+  "doi": "10.1038/s41467-021-22938-y",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "R.~L.~Clark \\emph{et al.}, Nat.\\ Commun.\\ \\textbf{12}, 3254 (2021).",
+  "parsed": {
+   "first_author": "Clark",
+   "journal": "Nature Communications",
+   "volume": "12",
+   "page": "3254",
+   "year": "2021"
+  }
+ },
+ "Rogers2008": {
+  "status": "OK",
+  "title": "Cavity approach to the spectral density of sparse symmetric random matrices",
+  "authors": [
+   "Rogers T",
+   "Castillo IP",
+   "Kühn R",
+   "Takeda K"
+  ],
+  "container": "Physical Review E",
+  "volume": "78",
+  "page": "031116",
+  "year": "2008",
+  "doi": "10.1103/physreve.78.031116",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "T.~Rogers, I.~P\\'erez Castillo, R.~K\\\"uhn, K.~Takeda, Phys.\\ Rev.\\ E \\textbf{78}, 031116 (2008).",
+  "parsed": {
+   "first_author": "Rogers",
+   "journal": "Physical Review E",
+   "volume": "78",
+   "page": "031116",
+   "year": "2008"
+  }
+ },
+ "Rogers2009": {
+  "status": "OK",
+  "title": "Cavity approach to the spectral density of non-Hermitian sparse matrices",
+  "authors": [
+   "Rogers T",
+   "Castillo IP"
+  ],
+  "container": "Physical Review E",
+  "volume": "79",
+  "page": "012101",
+  "year": "2009",
+  "doi": "10.1103/physreve.79.012101",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "T.~Rogers, I.~P\\'erez Castillo, Phys.\\ Rev.\\ E \\textbf{79}, 012101 (2009).",
+  "parsed": {
+   "first_author": "Rogers",
+   "journal": "Physical Review E",
+   "volume": "79",
+   "page": "012101",
+   "year": "2009"
+  }
+ },
+ "Sompolinsky1988": {
+  "status": "OK",
+  "title": "Chaos in Random Neural Networks",
+  "authors": [
+   "Sompolinsky H",
+   "Crisanti A",
+   "Sommers HJ"
+  ],
+  "container": "Physical Review Letters",
+  "volume": "61",
+  "page": "259-262",
+  "year": "1988",
+  "doi": "10.1103/physrevlett.61.259",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "H.~Sompolinsky, A.~Crisanti, H.~J.~Sommers, Phys.\\ Rev.\\ Lett.\\ \\textbf{61}, 259 (1988).",
+  "parsed": {
+   "first_author": "Sompolinsky",
+   "journal": "Physical Review Letters",
+   "volume": "61",
+   "page": "259",
+   "year": "1988"
+  }
+ },
+ "Sommers1988": {
+  "status": "OK",
+  "title": "Spectrum of Large Random Asymmetric Matrices",
+  "authors": [
+   "Sommers HJ",
+   "Crisanti A",
+   "Sompolinsky H",
+   "Stein Y"
+  ],
+  "container": "Physical Review Letters",
+  "volume": "60",
+  "page": "1895-1898",
+  "year": "1988",
+  "doi": "10.1103/physrevlett.60.1895",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "H.~J.~Sommers, A.~Crisanti, H.~Sompolinsky, Y.~Stein, Phys.\\ Rev.\\ Lett.\\ \\textbf{60}, 1895 (1988).",
+  "parsed": {
+   "first_author": "Sommers",
+   "journal": "Physical Review Letters",
+   "volume": "60",
+   "page": "1895",
+   "year": "1988"
+  }
+ },
+ "Biroli2018": {
+  "status": "OK",
+  "title": "Marginally stable equilibria in critical ecosystems",
+  "authors": [
+   "Biroli G",
+   "Bunin G",
+   "Cammarota C"
+  ],
+  "container": "New Journal of Physics",
+  "volume": "20",
+  "page": "083051",
+  "year": "2018",
+  "doi": "10.1088/1367-2630/aada58",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "G.~Biroli, G.~Bunin, C.~Cammarota, New J.\\ Phys.\\ \\textbf{20}, 083051 (2018).",
+  "parsed": {
+   "first_author": "Biroli",
+   "journal": "New Journal of Physics",
+   "volume": "20",
+   "page": "083051",
+   "year": "2018"
+  }
+ },
+ "Mambuca2022": {
+  "status": "OK",
+  "title": "Dynamical systems on large networks with predator-prey interactions are stable and exhibit oscillations",
+  "authors": [
+   "Mambuca AM",
+   "Cammarota C",
+   "Neri I"
+  ],
+  "container": "Physical Review E",
+  "volume": "105",
+  "page": "014305",
+  "year": "2022",
+  "doi": "10.1103/physreve.105.014305",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "A.~M.~Mambuca, C.~Cammarota, I.~Neri, Phys.\\ Rev.\\ E \\textbf{105}, 014305 (2022).",
+  "parsed": {
+   "first_author": "Mambuca",
+   "journal": "Physical Review E",
+   "volume": "105",
+   "page": "014305",
+   "year": "2022"
+  }
+ },
+ "Poley2025": {
+  "status": "OK",
+  "title": "Interaction networks in persistent Lotka-Volterra communities",
+  "authors": [
+   "Poley L",
+   "Galla T",
+   "Baron JW"
+  ],
+  "container": "Physical Review E",
+  "volume": "111",
+  "page": "014318",
+  "year": "2025",
+  "doi": "10.1103/physreve.111.014318",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "L.~Poley, T.~Galla, J.~W.~Baron, Phys.\\ Rev.\\ E \\textbf{111}, 014318 (2025).",
+  "parsed": {
+   "first_author": "Poley",
+   "journal": "Physical Review E",
+   "volume": "111",
+   "page": "014318",
+   "year": "2025"
+  }
+ },
+ "RiosGarza2026": {
+  "status": "OK",
+  "title": "Emergence of alternative states in a synthetic human gut microbial community",
+  "authors": [
+   "Garza DR",
+   "Liu B",
+   "van de Velde C",
+   "Zhou X",
+   "Saha P",
+   "Gonze D",
+   "Simoens K",
+   "Bernaerts K",
+   "Faust K"
+  ],
+  "container": "Nature Communications",
+  "volume": "17",
+  "page": "326",
+  "year": "2026",
+  "doi": "10.1038/s41467-025-67036-5",
+  "matched_on": "manual DOI",
+  "bibitem": "D.~Rios Garza \\emph{et al.}, Nat.\\ Commun.\\ \\textbf{17}, 326 (2026).",
+  "parsed": {
+   "first_author": "Rios",
+   "journal": "Nature Communications",
+   "volume": "17",
+   "page": "326",
+   "year": "2026"
+  }
+ },
+ "Tonolo2026": {
+  "status": "OK",
+  "title": "Generalized Lotka-Volterra Model with Sparse Interactions: Non-Gaussian Effects and Topological Multiple-Equilibria Phase",
+  "authors": [
+   "Tonolo T",
+   "Angelini MC",
+   "Azaele S",
+   "Maritan A",
+   "Gradenigo G"
+  ],
+  "container": "PRX Life",
+  "volume": "4",
+  "page": "013017",
+  "year": "2026",
+  "doi": "10.1103/8hrf-twxb",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "T.~Tonolo, M.~C.~Angelini, S.~Azaele, A.~Maritan, G.~Gradenigo, PRX Life \\textbf{4}, 013017 (2026).",
+  "parsed": {
+   "first_author": "Tonolo",
+   "journal": "PRX Life",
+   "volume": "4",
+   "page": "013017",
+   "year": "2026"
+  }
+ },
+ "Tarabolo2025": {
+  "status": "ARXIV",
+  "arxiv": "2512.22563",
+  "title": "Sparse Interactions Reshape Stability in Random Lotka-Volterra Dynamics",
+  "authors": [
+   "Tarabolo M",
+   "Dall'Asta L",
+   "Mulet R"
+  ],
+  "year": "2025",
+  "bibitem": "M.~Tarabolo, L.~Dall'Asta, R.~Mulet, arXiv:2512.22563 (2025).",
+  "parsed": {
+   "first_author": "Tarabolo",
+   "journal": null,
+   "volume": null,
+   "page": null,
+   "year": "2025"
+  }
+ },
+ "LouisSarrola2026": {
+  "status": "ARXIV",
+  "arxiv": "2602.10856",
+  "title": "Fragile $\\mathit{vs}$ robust Multiple Equilibria phases in generalized Lotka-Volterra model with non-reciprocal interactions",
+  "authors": [
+   "Louis-Sarrola T",
+   "Ros V"
+  ],
+  "year": "2026",
+  "bibitem": "T.~Louis-Sarrola, V.~Ros, arXiv:2602.10856 (2026).",
+  "parsed": {
+   "first_author": "Louis-Sarrola",
+   "journal": null,
+   "volume": null,
+   "page": null,
+   "year": "2026"
+  }
+ },
+ "Ros2023": {
+  "status": "OK",
+  "title": "Quenched complexity of equilibria for asymmetric generalized Lotka–Volterra equations",
+  "authors": [
+   "Ros V",
+   "Roy F",
+   "Biroli G",
+   "Bunin G"
+  ],
+  "container": "Journal of Physics A: Mathematical and Theoretical",
+  "volume": "56",
+  "page": "305003",
+  "year": "2023",
+  "doi": "10.1088/1751-8121/ace00f",
+  "matched_on": "journal+volume+page+author",
+  "bibitem": "V.~Ros, F.~Roy, G.~Biroli, G.~Bunin, J.~Phys.~A: Math.\\ Theor.\\ \\textbf{56}, 305003 (2023).",
+  "parsed": {
+   "first_author": "Ros",
+   "journal": "Journal of Physics A: Mathematical and Theoretical",
+   "volume": "56",
+   "page": "305003",
+   "year": "2023"
+  }
+ },
+ "Pasqualini2025": {
+  "status": "OK",
+  "title": "Microbiomes Through the Looking Glass: Linking Species Interactions to Dysbiosis through a Disordered Lotka-Volterra Framework",
+  "authors": [
+   "Pasqualini J",
+   "Maritan A",
+   "Rinaldo A",
+   "Facchin S",
+   "Savarino E",
+   "Altieri A",
+   "Suweis S"
+  ],
+  "container": "",
+  "volume": null,
+  "page": null,
+  "year": "2025",
+  "doi": "10.7554/elife.105948.2",
+  "matched_on": "manual DOI",
+  "bibitem": "J.~Pasqualini, A.~Maritan, A.~Rinaldo, S.~Facchin, E.~Savarino, A.~Altieri, S.~Suweis, \\emph{Microbiomes through the looking glass: linking species interactions to dysbiosis through a disordered Lotka--Volterra framework}, eLife \\textbf{14}, RP105948 (2025) [reviewed preprint].",
+  "parsed": {
+   "first_author": "Pasqualini",
+   "journal": "eLife",
+   "volume": "14",
+   "page": "RP105948",
+   "year": "2025"
+  }
+ },
+ "Aguilar2026": {
+  "status": "OK",
+  "title": "Unraveling the Temporal Dependence of Ecological Interaction Measures",
+  "authors": [
+   "Aguilar J",
+   "Suweis S",
+   "Maritan A",
+   "Azaele S"
+  ],
+  "container": "PRX Life",
+  "volume": "4",
+  "page": "033001",
+  "year": "2026",
+  "doi": "10.1103/8fb1-jmqh",
+  "matched_on": "manual DOI",
+  "bibitem": "J.~Aguilar, S.~Suweis, A.~Maritan, S.~Azaele, PRX Life \\textbf{4}, 033001 (2026).",
+  "parsed": {
+   "first_author": "Aguilar",
+   "journal": "PRX Life",
+   "volume": "4",
+   "page": "033001",
+   "year": "2026"
+  }
+ }
+}

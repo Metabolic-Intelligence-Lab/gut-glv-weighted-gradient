@@ -1,0 +1,15 @@
+# Larger fonts + higher resolution for composite sub-figures (referee: tiny fonts).
+# Applied via MATPLOTLIBRC=scripts/polish.matplotlibrc when regenerating; lifts every
+# default-sized element without touching each script. The .tex/analysis is unchanged.
+font.size: 14
+axes.titlesize: 15
+axes.labelsize: 14
+xtick.labelsize: 12
+ytick.labelsize: 12
+legend.fontsize: 12.5
+lines.linewidth: 2.0
+lines.markersize: 7
+figure.dpi: 110
+savefig.dpi: 180
+savefig.bbox: tight
+figure.titlesize: 15
