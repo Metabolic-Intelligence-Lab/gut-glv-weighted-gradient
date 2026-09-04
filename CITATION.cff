@@ -1,21 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the paper below."
-title: "Code for: A weighted-gradient signature in designed gut-community dynamics, and why inferred interaction matrices hide it"
+title: "Code for: An inference-aware protocol for testing weighted-gradient (energy-landscape) structure in gut microbial Lotka-Volterra models"
 authors:
   - family-names: Maulucci
     given-names: Giuseppe
     orcid: "https://orcid.org/0000-0002-2154-319X"
     affiliation: "Dipartimento di Neuroscienze, Sezione di Biofisica, Università Cattolica del Sacro Cuore, Rome, Italy; Fondazione Policlinico Universitario A. Gemelli IRCCS, Rome, Italy"
 license: MIT
-date-released: "2026-08-28"
-version: "1.0.0"
+date-released: "2026-09-04"
+version: "1.1.0"
 preferred-citation:
   type: article
-  title: "A weighted-gradient signature in designed gut-community dynamics, and why inferred interaction matrices hide it"
+  title: "An inference-aware protocol for testing weighted-gradient (energy-landscape) structure in gut microbial Lotka-Volterra models"
   authors:
     - family-names: Maulucci
       given-names: Giuseppe
       orcid: "https://orcid.org/0000-0002-2154-319X"
-  journal: "PLOS Computational Biology"
+  journal: "Briefings in Bioinformatics"
   year: 2026
   status: submitted
