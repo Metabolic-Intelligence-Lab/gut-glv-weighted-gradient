@@ -1,0 +1,249 @@
+{
+ "generated_by": "scripts/table5_audit.py",
+ "seed": 20261105,
+ "nboot": 4000,
+ "alpha": 0.05,
+ "sources": {
+  "descent": "figures/descent_specificity_ensemble.npz",
+  "predictive": "figures/design_sweep.json"
+ },
+ "noise_setting": {
+  "sigma_p": 0.2,
+  "sigma_o": 0.0
+ },
+ "designs": {
+  "published": [
+   0,
+   0,
+   1
+  ],
+  "proposed": [
+   0,
+   2,
+   4
+  ]
+ },
+ "critical_values": {
+  "descent_margin": 0.08946794871794864,
+  "pstar_published": 0.01965092151836935,
+  "pstar_proposed": 0.1599902355669474,
+  "n_base_descent": 150,
+  "n_base_predictive": 200
+ },
+ "published_table": {
+  "base": {
+   "descent": 0.05,
+   "pred_published": 0.05,
+   "pred_proposed": 0.05
+  },
+  "free": {
+   "descent": 0.01,
+   "pred_published": 0.25,
+   "pred_proposed": 1.0
+  },
+  "antisym": {
+   "descent": 0.08,
+   "pred_published": 0.1,
+   "pred_proposed": 0.7
+  },
+  "cycle": {
+   "descent": 0.17,
+   "pred_published": 0.1,
+   "pred_proposed": 0.12
+  },
+  "oneway": {
+   "descent": 0.04,
+   "pred_published": 0.05,
+   "pred_proposed": 0.1
+  },
+  "sign": {
+   "descent": 0.04,
+   "pred_published": 0.03,
+   "pred_proposed": 0.05
+  }
+ },
+ "declared_mismatch": [],
+ "cells": {
+  "descent": {
+   "base": {
+    "power": 0.05333333333333334,
+    "lo": 0.013333333333333334,
+    "hi": 0.11333333333333333,
+    "n_truths": 1,
+    "n_rep": 150
+   },
+   "antisym": {
+    "power": 0.078125,
+    "lo": 0.028645833333333336,
+    "hi": 0.17708333333333334,
+    "n_truths": 32,
+    "n_rep": 384
+   },
+   "oneway": {
+    "power": 0.03819444444444444,
+    "lo": 0.013888888888888888,
+    "hi": 0.10069444444444443,
+    "n_truths": 24,
+    "n_rep": 288
+   },
+   "sign": {
+    "power": 0.03819444444444444,
+    "lo": 0.010416666666666666,
+    "hi": 0.07638888888888888,
+    "n_truths": 24,
+    "n_rep": 288
+   },
+   "cycle": {
+    "power": 0.17361111111111113,
+    "lo": 0.07638888888888888,
+    "hi": 0.3229166666666667,
+    "n_truths": 24,
+    "n_rep": 288
+   },
+   "free": {
+    "power": 0.008333333333333333,
+    "lo": 0.0,
+    "hi": 0.04166666666666667,
+    "n_truths": 4,
+    "n_rep": 240
+   }
+  },
+  "pred_published": {
+   "base": {
+    "power": 0.05,
+    "lo": 0.015,
+    "hi": 0.105,
+    "n_truths": 1,
+    "n_rep": 200
+   },
+   "free": {
+    "power": 0.25,
+    "lo": 0.1,
+    "hi": 0.45,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "antisym": {
+    "power": 0.1,
+    "lo": 0.0,
+    "hi": 0.2,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "cycle": {
+    "power": 0.1,
+    "lo": 0.0,
+    "hi": 0.2,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "oneway": {
+    "power": 0.05,
+    "lo": 0.0,
+    "hi": 0.125,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "sign": {
+    "power": 0.025,
+    "lo": 0.0,
+    "hi": 0.075,
+    "n_truths": 1,
+    "n_rep": 40
+   }
+  },
+  "pred_proposed": {
+   "base": {
+    "power": 0.05,
+    "lo": 0.015,
+    "hi": 0.105,
+    "n_truths": 1,
+    "n_rep": 200
+   },
+   "free": {
+    "power": 1.0,
+    "lo": 1.0,
+    "hi": 1.0,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "antisym": {
+    "power": 0.7,
+    "lo": 0.55,
+    "hi": 0.85,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "cycle": {
+    "power": 0.125,
+    "lo": 0.05,
+    "hi": 0.25,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "oneway": {
+    "power": 0.1,
+    "lo": 0.025,
+    "hi": 0.2,
+    "n_truths": 1,
+    "n_rep": 40
+   },
+   "sign": {
+    "power": 0.05,
+    "lo": 0.0,
+    "hi": 0.15,
+    "n_truths": 1,
+    "n_rep": 40
+   }
+  }
+ },
+ "sentence_checks": {
+  "trajectories_025": {
+   "max_point": 0.25,
+   "max_upper": 0.45,
+   "cell": [
+    "pred_published",
+    "free"
+   ]
+  },
+  "descent_025": {
+   "max_point": 0.17361111111111113,
+   "max_upper": 0.3229166666666667,
+   "family": "cycle"
+  },
+  "oneway_cyclic_029": {
+   "max_point": 0.25,
+   "n_cells": 24,
+   "cells_over": [
+    [
+     "oneway",
+     4,
+     0,
+     0.225,
+     0.425
+    ],
+    [
+     "oneway",
+     4,
+     1,
+     0.2,
+     0.35
+    ],
+    [
+     "cycle",
+     4,
+     1,
+     0.25,
+     0.425
+    ],
+    [
+     "oneway",
+     5,
+     1,
+     0.05,
+     0.3
+    ]
+   ]
+  }
+ }
+}

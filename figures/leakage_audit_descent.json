@@ -1,0 +1,248 @@
+{
+ "generated_by": "scripts/leakage_audit_descent.py",
+ "lambdas": [
+  0.25,
+  0.5,
+  1.0,
+  2.0
+ ],
+ "nperm": 400,
+ "published": {
+  "fraction": 0.86,
+  "margin": 0.1,
+  "boot_lo": 0.05,
+  "boot_hi": 0.156
+ },
+ "P1": {
+  "fraction": 0.8589743589743589,
+  "scrambled": 0.7579166666666668,
+  "margin": 0.10105769230769213,
+  "n": 78,
+  "per_fold": [
+   {
+    "community": "ER-",
+    "lam": 0.5,
+    "fraction": 0.5,
+    "n": 6,
+    "scrambled": 0.4541666666666667
+   },
+   {
+    "community": "BH-",
+    "lam": 0.5,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.6275
+   },
+   {
+    "community": "EL-",
+    "lam": 0.5,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.8495833333333335
+   },
+   {
+    "community": "FP-",
+    "lam": 0.5,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.69
+   },
+   {
+    "community": "DP-",
+    "lam": 0.5,
+    "fraction": 0.6666666666666666,
+    "n": 6,
+    "scrambled": 0.6766666666666665
+   },
+   {
+    "community": "PC-",
+    "lam": 0.5,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.8625
+   },
+   {
+    "community": "CA-",
+    "lam": 0.5,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.81
+   },
+   {
+    "community": "CH-",
+    "lam": 0.5,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.8008333333333334
+   },
+   {
+    "community": "BO-",
+    "lam": 0.5,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.8341666666666667
+   },
+   {
+    "community": "BV-",
+    "lam": 0.5,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.6825
+   },
+   {
+    "community": "BT-",
+    "lam": 0.5,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.9245833333333334
+   },
+   {
+    "community": "BU-",
+    "lam": 0.5,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.81875
+   },
+   {
+    "community": "NONE",
+    "lam": 0.5,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.8216666666666668
+   }
+  ]
+ },
+ "P2": {
+  "fraction": 0.8717948717948718,
+  "scrambled": 0.7341987179487179,
+  "margin": 0.13759615384615387,
+  "n": 78,
+  "per_fold": [
+   {
+    "community": "ER-",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.49083333333333334
+   },
+   {
+    "community": "BH-",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.6279166666666667
+   },
+   {
+    "community": "EL-",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.8566666666666667
+   },
+   {
+    "community": "FP-",
+    "lam": 0.25,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.70625
+   },
+   {
+    "community": "DP-",
+    "lam": 0.25,
+    "fraction": 0.6666666666666666,
+    "n": 6,
+    "scrambled": 0.6879166666666667
+   },
+   {
+    "community": "PC-",
+    "lam": 0.25,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.7141666666666667
+   },
+   {
+    "community": "CA-",
+    "lam": 0.25,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.7716666666666666
+   },
+   {
+    "community": "CH-",
+    "lam": 0.25,
+    "fraction": 1.0,
+    "n": 6,
+    "scrambled": 0.7583333333333334
+   },
+   {
+    "community": "BO-",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.8129166666666667
+   },
+   {
+    "community": "BV-",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.6929166666666666
+   },
+   {
+    "community": "BT-",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.8645833333333335
+   },
+   {
+    "community": "BU-",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.8179166666666667
+   },
+   {
+    "community": "NONE",
+    "lam": 0.25,
+    "fraction": 0.8333333333333334,
+    "n": 6,
+    "scrambled": 0.7425
+   }
+  ],
+  "picks": {
+   "0": 0.25,
+   "1": 0.25,
+   "2": 0.25,
+   "3": 0.25,
+   "4": 0.25,
+   "5": 0.25,
+   "6": 0.25,
+   "7": 0.25,
+   "8": 0.25,
+   "9": 0.25,
+   "10": 0.25,
+   "11": 0.25,
+   "12": 0.25
+  },
+  "counts": {
+   "0.25": 13,
+   "0.5": 0,
+   "1.0": 0,
+   "2.0": 0
+  }
+ },
+ "P3": {
+  "by_lambda": {
+   "0.25": 0.13759615384615387,
+   "0.5": 0.10105769230769213,
+   "1.0": 0.045705128205128176,
+   "2.0": 0.034935897435897534
+  },
+  "best_lambda": 0.25,
+  "margin": 0.13759615384615387,
+  "tuning_gain": 0.03653846153846174
+ },
+ "verdict": "no selection effect",
+ "seconds": 1097.25861287117
+}
