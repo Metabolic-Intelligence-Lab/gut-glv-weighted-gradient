@@ -18,6 +18,11 @@ Result: sign-discordance is pervasive across the ENTIRE posterior (f_sign>0.42 i
 draw, median ~0.51), so Clark's departure from exact symmetrizability is not an artefact of
 the shrunk point matrix.
 
+The same posterior also bounds how much of that discordance is resolved, and those two
+counts are quoted in the main text and in S1 Text: only 43 of the 600 off-diagonal
+coefficients have a 95% central credible interval excluding zero, and exactly 1 of the 300
+unordered pairs reaches posterior probability 0.95 of carrying opposite signs.
+
 Run:  python3 clark_posterior_invariants.py
 """
 import numpy as np
@@ -61,8 +66,33 @@ def main():
           f"with f_sign={f_id:.3f}.")
     print("  => Clark's f_sign~0.5 is dominated by sign NON-identifiability of near-zero "
           "coefficients, not robust biological discordance.")
+
+    # --- how much of the matrix the posterior resolves at all, and how much of the sign
+    #     discordance is resolved. Both numbers are quoted in the main text and in S1 Text,
+    #     so they are computed here rather than by hand. The criterion is the 95% CENTRAL
+    #     credible interval excluding zero, taken from the draws themselves; the normal
+    #     approximation |mean| > 1.96*sd is more conservative and would give 25, not 43.
+    offmask = ~np.eye(A.shape[1], dtype=bool)
+    lo, hi = np.quantile(A, 0.025, axis=0), np.quantile(A, 0.975, axis=0)
+    resolved = ((lo > 0) | (hi < 0)) & offmask
+    n_off, n_res = int(offmask.sum()), int(resolved.sum())
+
+    # posterior probability that a reciprocal pair carries OPPOSITE signs, per unordered pair
+    aij, aji = A[:, iu[0], iu[1]], A[:, iu[1], iu[0]]
+    opp = (np.sign(aij) != np.sign(aji)) & (aij != 0) & (aji != 0)
+    p_opp = opp.mean(0)
+    n_pairs, n_opp95 = len(p_opp), int((p_opp >= 0.95).sum())
+
+    print(f"\n  resolution: {n_res} of {n_off} off-diagonal coefficients have a 95% central "
+          f"credible interval excluding zero.")
+    print(f"  opposite signs: {n_opp95} of {n_pairs} unordered pairs reach posterior probability "
+          f"0.95 of carrying opposite signs (max over pairs {p_opp.max():.4f}).")
+    print("  => any per-pair reading of this posterior is bounded by those two counts.")
+
     np.savez(f"{OUT}/clark_posterior_invariants.npz", f_sign=FS, r_cycle=RC, gamma=GM,
-             f_naive=f_naive, n_identified=int(both_id.sum()), f_identified=f_id)
+             f_naive=f_naive, n_identified=int(both_id.sum()), f_identified=f_id,
+             n_offdiag=n_off, n_resolved95=n_res,
+             n_pairs=n_pairs, n_opposite_p95=n_opp95, max_p_opposite=float(p_opp.max()))
 
 
 if __name__ == "__main__":
